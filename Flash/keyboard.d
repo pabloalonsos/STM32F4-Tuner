@@ -1,0 +1,11 @@
+.\flash\keyboard.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Boards\ST\STM32F4-Discovery\Common\Keyboard.c
+.\flash\keyboard.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Boards\ST\STM32F4-Discovery\Common\Keyboard.h
+.\flash\keyboard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\keyboard.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\RTE_Driver\GPIO_STM32F4xx.h
+.\flash\keyboard.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\flash\keyboard.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h
+.\flash\keyboard.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h
+.\flash\keyboard.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h
+.\flash\keyboard.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h
+.\flash\keyboard.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h
+.\flash\keyboard.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h

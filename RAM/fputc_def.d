@@ -1,0 +1,9 @@
+.\ram\fputc_def.o: fputc_def.c
+.\ram\fputc_def.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\ram\fputc_def.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\STM32F4xx.h
+.\ram\fputc_def.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h
+.\ram\fputc_def.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\ram\fputc_def.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h
+.\ram\fputc_def.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h
+.\ram\fputc_def.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h
+.\ram\fputc_def.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h
